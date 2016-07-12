@@ -11,8 +11,6 @@
     "repositories": [
         {"packagist": false },
         {"type": "composer","url": "http://pkg.phpcomposer.com/repo/packagist/"},
-        {"type": "git","url": "https://github.com/meisen2008/PureBlog.git"}
-
         {
             "type": "package",
             "package": {

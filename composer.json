@@ -1,0 +1,16 @@
+{
+    "name": "meisen2008/PureBlog",
+    "license": "proprietary",
+    "type": "library",
+    "authors": [{
+        "name": "KaimingWan",
+        "email": "dontknow@qq.com",
+        "homepage": "https://github.com/meisen2008",
+        "role": "developer"
+    }],
+    "repositories": [
+        {"packagist": false },
+        {"type": "composer","url": "http://pkg.phpcomposer.com/repo/packagist/"},
+        {"type": "git","url": "https://github.com/meisen2008/PureBlog.git"}
+    ]
+}

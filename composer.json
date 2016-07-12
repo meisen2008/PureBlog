@@ -12,5 +12,17 @@
         {"packagist": false },
         {"type": "composer","url": "http://pkg.phpcomposer.com/repo/packagist/"},
         {"type": "git","url": "https://github.com/meisen2008/PureBlog.git"}
+
+        {
+            "type": "package",
+            "package": {
+                "name": "meisen2008/PureBlog",
+                "version": "1.0.1",
+                "dist": {
+                    "url": "https://github.com/meisen2008/PureBlog.git",
+                    "type": "git"
+                }
+            }
+        }
     ]
 }

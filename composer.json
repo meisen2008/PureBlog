@@ -2,6 +2,7 @@
     "name": "meisen2008/PureBlog",
     "license": "proprietary",
     "type": "library",
+    "version":"1.0.1",
     "authors": [{
         "name": "KaimingWan",
         "email": "dontknow@qq.com",
